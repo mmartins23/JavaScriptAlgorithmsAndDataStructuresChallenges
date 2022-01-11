@@ -8,7 +8,7 @@ Implemented solutions for coding challenges & web app projects of 1800 hour long
 <br>
 
 ## Full Stack Developer Roadmap 
-   (Six Certifications) with my completion status:-
+   (Certification) with my completion status:-
    
 
 
