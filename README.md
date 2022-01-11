@@ -1,5 +1,5 @@
 # FreeCodeCamp Solutions
-Implemented solutions for coding challenges & web app projects of 300 hour long javascript developer roadmap from freeCodeCamp.
+Implemented solutions for coding challenges & web app projects of 1800 hour long javascript developer roadmap from freeCodeCamp.
 
 
 <br>
