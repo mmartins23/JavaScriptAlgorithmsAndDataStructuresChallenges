@@ -1,5 +1,5 @@
 # FreeCodeCamp Solutions
-freeCodeCamp.org offers several developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of coding challenges and this repository contains my solution to all of those coding challenges and web app projects. freeCodeCamp estimate that each certification generally takes approx. 300 hours to earn.
+Implemented solutions for coding challenges & web app projects of 1800 hour long full stack developer roadmap from freeCodeCamp.
 
 
 <br>
