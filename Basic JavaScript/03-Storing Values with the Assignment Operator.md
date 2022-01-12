@@ -16,6 +16,8 @@ First, this code creates a variable named myVar. Then, the code assigns 5 to myV
 
 Assign the value 7 to variable a.
 
+***
+
 ### Answer
 
 ```js

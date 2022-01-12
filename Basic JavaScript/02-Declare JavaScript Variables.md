@@ -18,6 +18,7 @@ creates a variable called ourName. In JavaScript we end statements with semicolo
 
 Use the var keyword to create a variable called myName.
 
+***
 
 ### Answer
 ```js
