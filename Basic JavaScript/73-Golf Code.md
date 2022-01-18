@@ -37,3 +37,9 @@ function golfScore(par, strokes) {
   // Change these values to test
   golfScore(5, 1);
   ```
+
+
+### Code Explanation
+Since we already have an array defined in the variable names we can take advantage of it and use it for our return statements using indexes (eg: names[0] is the first one). 
+
+That way, if you ever need to change a specific result you wouldn’t need to look for it inside the function, it’d be at the beginning, in your array.
