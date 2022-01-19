@@ -14,7 +14,6 @@ Create a function called randomRange that takes a range myMin and myMax and retu
 
 
 
-
 ### Answer
 
 ```js
